@@ -1,0 +1,9 @@
+{
+  "name": "php-starter",
+  "licence": "MIT",
+  "type": "project",
+  "description": "A basic PHP structure to bootstrap projects without PHP framework",
+  "autoload": {
+    "classmap": ["src/"]
+  }
+}
